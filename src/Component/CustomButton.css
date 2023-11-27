@@ -1,0 +1,21 @@
+div {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  button {
+    padding: 10px;
+    margin: 5px;
+    cursor: pointer;
+  }
+  
+  .warning {
+    color: black;
+  }
+  
+  .hover {
+    font-style: italic;
+  }
+
+  
+  
